@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateTree", "GenerateTree\GenerateTree.csproj", "{207D1B21-AA10-4B09-BC21-4779DFCECE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207D1B21-AA10-4B09-BC21-4779DFCECE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207D1B21-AA10-4B09-BC21-4779DFCECE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207D1B21-AA10-4B09-BC21-4779DFCECE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207D1B21-AA10-4B09-BC21-4779DFCECE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002DC974-E359-4331-875F-C158B2BAFC47}
+	EndGlobalSection
+EndGlobal
